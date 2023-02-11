@@ -1,12 +1,13 @@
 # Color Adjustment Particles (maybe onionized)
 tune into your body core. imagining color-charged energetic points in lock-step with a group.
 
-the more folks play, the higher liklihood particles are obfuscated on the internet with throttle prevention (hypothesis), while also creating technospiritual unity with earth, and even moon roundtrips packet loops
+the more folks play, the higher liklihood particles are obfuscated on the internet with throttle prevention (hypothesis), while also creating technospiritual unity with earth, or even moon roundtrips packet loops
 
 peeling back the body psyche like an onion, with layers to attain enlightenment of the inner core
 
 Q: adapt the solution to accomodate onion particles, so particles sent to bodies are networked and privacy-focused, harmonizing with ttl-randomized amongst the peer network & obfuscated
 
+## Output (with color)
 ```
 .
 .
