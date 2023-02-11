@@ -40,7 +40,7 @@ Q: adapt the solution to accomodate onion particles, so particles sent to bodies
 ```
 
 ## TODO
-- ya _more_ private & harmonizing: running test.js onion indicates one can build an onion packet solution from `bitcoin-lib`
+- ya _more_ private & harmonizing: running test.js onion indicates one can build an onion packet solution from `bitcore-lib`
 - unit: Rasberry Pi adapted interface to run terminal for on-desk HUD
 - velocity: need help making the ⚫ tree just grey, with ❍ color & better timing
 
