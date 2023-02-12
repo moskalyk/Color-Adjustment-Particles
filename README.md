@@ -29,7 +29,7 @@ Q: adapt the solution to accomodate onion particles, so particles sent to bodies
 
         ⚫              ⚫
                 ⚫
-        ❍              ⚫
+        ❍               ⚫
 
                 ⚫
 
