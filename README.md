@@ -48,5 +48,6 @@ Q: adapt the solution to accomodate onion particles, so particles sent to bodies
 - all or nothing network blockage versus individual particle getting lost
 - smart home, jailbreak [networked massage](https://www.target.com/p/belmint-full-body-vibrating-massage-mat-with-heat-5-massage-modes-3-intensity-levels-beige/-/A-84240457#lnk=sametab) or private sex devices
 - hospital -> temple -> hospital communication
+- agriculture cow [massage tech](https://farm5.static.flickr.com/4089/5189796641_4db538b946.jpg) 
 
 made with ❤︎
